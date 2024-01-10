@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_js_include">
+    <sp_js_include action="INSERT_OR_UPDATE">
+        <display_name>https://cdn.jsdelivr.net/highlight.js/latest/highlight.min.js&#13;
+Ram Changes</display_name>
+        <source>url</source>
+        <sys_class_name>sp_js_include</sys_class_name>
+        <sys_created_by>tuadmin_ws</sys_created_by>
+        <sys_created_on>2018-09-27 11:16:41</sys_created_on>
+        <sys_id>e2b7bba5dbb8a30010b8f8fdbf96190e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>https://cdn.jsdelivr.net/highlight.js/latest/highlight.min.js&#13;
+Ram Changes</sys_name>
+        <sys_package display_value="Knowledge Markdown" source="bc8f0725db38a30010b8f8fdbf961972">bc8f0725db38a30010b8f8fdbf961972</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CSDP Global">d98c495793633110dab470d19dba100c</sys_scope>
+        <sys_ui_script/>
+        <sys_update_name>sp_js_include_e2b7bba5dbb8a30010b8f8fdbf96190e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-10 16:05:07</sys_updated_on>
+        <url>https://cdn.jsdelivr.net/highlight.js/latest/highlight.min.js</url>
+    </sp_js_include>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="CSDP Global">d98c495793633110dab470d19dba100c</claim_owner_scope>
+        <claim_timestamp>18cf412eeca0000001</claim_timestamp>
+        <metadata_update_name>sp_js_include_e2b7bba5dbb8a30010b8f8fdbf96190e</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>CSDP Global</previous_claim_name>
+        <previous_claim_scope>d98c495793633110dab470d19dba100c</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-10 15:52:10</sys_created_on>
+        <sys_id>1cdc49d793633110dab470d19dba1056</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-10 15:52:10</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="CSDP Global">d98c495793633110dab470d19dba100c</claim_owner_scope>
+        <claim_timestamp>18cf412eec40000001</claim_timestamp>
+        <metadata_update_name>sp_js_include_e2b7bba5dbb8a30010b8f8fdbf96190e</metadata_update_name>
+        <previous_claim_app_version>1.0.1</previous_claim_app_version>
+        <previous_claim_name>Knowledge Markdown</previous_claim_name>
+        <previous_claim_scope>bc8f0725db38a30010b8f8fdbf961972</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-10 15:52:10</sys_created_on>
+        <sys_id>dcdc49d793633110dab470d19dba1056</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-10 15:52:10</sys_updated_on>
+    </sys_claim>
+</record_update>
